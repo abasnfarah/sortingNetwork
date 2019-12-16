@@ -13,14 +13,14 @@ Once you have python install here are the instructions.
 the way to imput your network is the first line is number of lines. And second line is your swaps.
 
 for example this network:
-![](https://www.github.com/abasnfarah/sortingNetwork/img/Sorting Network 1.png)
+![](https://www.github.com/abasnfarah/sortingNetwork/img/SortingNetwork1.png)
 
 Input is:
 1. 8
 2. [[(0,1),(2,3),(4,5),(6,7)],[(0,3),(4,7)],[(1,2),(5,6)],[(0,1),(2,3),(6,7)],[(0,7)],[(1,6)],[(2,5)],[(3,4)],[(0,2),(4,6)],[(1,3),(5,7)],[(0,1),(2,3),(4,5),(6,7)]]
 
 Another example:
-![](https://www.github.com/abasnfarah/sortingNetwork/img/Sorting Network 2.png)
+![](https://www.github.com/abasnfarah/sortingNetwork/img/SortingNetwork2.png)
 
 Input is:
 1. 5
