@@ -51,6 +51,10 @@ if __name__=="__main__":
     num =int(l[0])
     x.close()
     network = ast.literal_eval(y)
+    for j in range(len(network)):
+        for i in range(len(network[j])):
+            network[j][i]=(min(network[j][i]),max(network[j][i]))
+
     output = sortingNetwork(network,num)
     outputFile = 'Looks good'
     print(output)
