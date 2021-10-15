@@ -17,14 +17,14 @@ Once you have python installed here are the instructions.
 ### Keep in mind that the number of lines is zero indexed
 
 for example this network:
-![alt text](https://github.com/abasnfarah/sortingNetwork/blob/master/img/SortingNetwork1.png "file 1")
+![alt text](https://raw.githubusercontent.com/abasnfarah/sortingNetwork/main/img/SortingNetwork1.png "file 1")
 
 Input is:
 1. `8`
 2. `[[(0,1),(2,3),(4,5),(6,7)],[(0,3),(4,7)],[(1,2),(5,6)],[(0,1),(2,3),(6,7)],[(0,7)],[(1,6)],[(2,5)],[(3,4)],[(0,2),(4,6)],[(1,3),(5,7)],[(0,1),(2,3),(4,5),(6,7)]]`
 
 Another example:
-![alt text](https://github.com/abasnfarah/sortingNetwork/blob/master/img/SortingNetwork2.png "file 2")
+![alt text](https://raw.githubusercontent.com/abasnfarah/sortingNetwork/main/img/SortingNetwork2.png "file 2")
 
 Input is:
 1. `5`
